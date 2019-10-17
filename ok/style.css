@@ -1,0 +1,27 @@
+
+fieldset{
+background:#d474ca;
+border-width: 1px;
+border-style: solid;
+text-align: center;
+}
+
+input{
+background:#f5dff2;
+}
+legend{
+background:#ed95ec;
+}
+input[type="submit"]{
+background:#ed95ec;
+}
+
+h1{
+background:#ed95ec;
+}
+table{
+background:#f2a7f2;
+}
+tr:nth-child(2n+1){
+background:#e8b0e87!important;
+}
